@@ -6,12 +6,13 @@
 В качестве ответа на запрос печатается позиция первого вхождения строки в текст в виде числа в 0-индексации. Любые символы (включая символ переноса строки) считаются за отдельный символ.
 
 ### Пример ###
-Данный текст: Elisnore.  
-              A platform before the castle.  
-              Francisco at his post. Enter to him Bernardo. 
-              Who's there?  
-              Nay, answer me: stand, and unfold yourself.  
-              Long live the king!
+Данный текст:  
+Elisnore.  
+A platform before the castle.  
+Francisco at his post. Enter to him Bernardo. 
+Who's there?  
+Nay, answer me: stand, and unfold yourself.  
+Long live the king!
               
 |  запрос  |  ответ   |
 |----------|----------|
