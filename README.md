@@ -7,12 +7,13 @@
 
 ### Пример ###
 Данный текст:  
-Elisnore.  
+
+___Elisnore.  
 A platform before the castle.  
 Francisco at his post. Enter to him Bernardo. 
 Who's there?  
 Nay, answer me: stand, and unfold yourself.  
-Long live the king!
+Long live the king!___
               
 |  запрос  |  ответ   |
 |----------|----------|
